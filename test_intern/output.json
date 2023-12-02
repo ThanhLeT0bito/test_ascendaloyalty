@@ -1,0 +1,32 @@
+{
+  "Offers": [
+    {
+      "Id": 1,
+      "Title": "Offer 1",
+      "Description": "Offer 1 description",
+      "Category": 1,
+      "Merchants": [
+        {
+          "Id": 1,
+          "Name": "Offer1 Merchant1",
+          "Distance": 0.5
+        }
+      ],
+      "ValidTo": "2020-02-01"
+    },
+    {
+      "Id": 3,
+      "Title": "Offer 3",
+      "Description": "Offer 3 description",
+      "Category": 2,
+      "Merchants": [
+        {
+          "Id": 3,
+          "Name": "Offer3 Merchant1",
+          "Distance": 0.8
+        }
+      ],
+      "ValidTo": "2020-01-01"
+    }
+  ]
+}
