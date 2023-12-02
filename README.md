@@ -1,7 +1,7 @@
 # test_ascendaloyalty 
-#Ascenda Travel Offers Filtering
+# Ascenda Travel Offers Filtering
 This console application filters nearby offers for Ascend Travel customers based on the check-in date and specific category conditions. The filtered offers are then sorted and saved to an output JSON file.
-#Setup
+# Setup
 1. Prerequisites
    - .NET SDK must be installed on your machine.
 2. Clone the Repository
