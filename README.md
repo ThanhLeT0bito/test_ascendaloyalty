@@ -4,6 +4,7 @@ This console application filters nearby offers for Ascend Travel customers based
 # Setup
 1. Prerequisites
    - .NET SDK must be installed on your machine.
+   - IDE Visual Studio 2022
 2. Clone the Repository
    - Attention read the input offers from input.json, filter and process the data based on the check-in date, and save the result to output.json.
 4. Adjusting Input Data
